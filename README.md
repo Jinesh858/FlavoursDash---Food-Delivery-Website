@@ -1,0 +1,1 @@
+FlavoursDash is a Food Delivery Website where customers can order food of its choice . In this website there is cash on delivery option . If you want you can add payment gateway which will enhance this website .
